@@ -12,7 +12,7 @@ var LCARS = new Dispatcher();
 
 extend(LCARS, {
 
-  _dispatch: LCARS,
+  _dispatch: LCARS.dispatch,
 
   /**
    * @param {object} action
