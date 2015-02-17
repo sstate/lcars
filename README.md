@@ -4,6 +4,10 @@
 
 A queued flux dispatcher
 
+#### Install
+
+`npm install lcars`
+
 #### Run tests
 
 ```
