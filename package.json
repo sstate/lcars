@@ -1,11 +1,16 @@
 {
   "name": "lcars",
-  "version": "0.0.0",
-  "description": "",
+  "version": "1.0.0",
+  "description": "A queued flux dispatcher",
+  "keywords": [
+    "flux",
+    "react",
+    "rectjs",
+    "dispatcher"
+  ],
   "license": "MIT",
   "main": "src/index.js",
   "repository": "",
-  "author": "",
   "engines": {
     "node": ">=0.10.0"
   },
