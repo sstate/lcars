@@ -1,6 +1,6 @@
 {
   "name": "lcars",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A queued flux dispatcher",
   "keywords": [
     "flux",
@@ -10,7 +10,10 @@
   ],
   "license": "MIT",
   "main": "src/index.js",
-  "repository": "",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:sstate/lcars.git"
+  },
   "engines": {
     "node": ">=0.10.0"
   },
