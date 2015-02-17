@@ -1,4 +1,4 @@
-# lcars
+# LCARS
 
 ![LCARS](http://i.imgur.com/u9eSSiW.jpg)
 
