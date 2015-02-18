@@ -14,7 +14,7 @@ LCARS is a dispatcher that uses [facebook's flux dispatcher](https://github.com/
 
 It is common in flux applications to have _one_ dispatcher. That is how we use it, but in practice, you _could_ have more than one. We feel to follow flux, and to make your application easier to follow, it is a good practice to only have one. Be cautious of this. Please read [this if you havent yet.](http://facebook.github.io/react/blog/2014/07/30/flux-actions-and-the-dispatcher.html#why-we-need-a-dispatcher)
 
-The place that dispatchers are mostly used is in your [Action Creator](http://facebook.github.io/react/blog/2014/07/30/flux-actions-and-the-dispatcher.html#actions-and-actioncreators).
+The place that dispatchers are mostly used is in your [Action Creator](http://facebook.github.io/react/blog/2014/07/30/flux-actions-and-the-dispatcher.html#actions-and-actioncreators) and [Stores](http://facebook.github.io/flux/docs/overview.html#stores).
 
 #### Example
 
