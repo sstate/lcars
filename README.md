@@ -5,7 +5,7 @@
 A queued flux dispatcher
 
 
-Demo [[source](https://github.com/sstate/examples#flux-todomvc---lcars-and-cargobay) [live demo](http://sstate.github.io/examples/examples/flux-todomvc/)]
+Demo [[source](https://github.com/sstate/examples#flux-todomvc---lcars-and-cargobay)] [[live demo](http://sstate.github.io/examples/examples/flux-todomvc/)]
 
 ## Install
 
