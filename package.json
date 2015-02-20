@@ -1,6 +1,6 @@
 {
   "name": "lcars",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "A queued flux dispatcher",
   "keywords": [
     "flux",
@@ -52,7 +52,7 @@
   "dependencies": {
     "amp-extend": "^1.0.1",
     "queue": "^3.0.10",
-    "flux": "2.0.2"
+    "flux": "2.0.1"
   },
   "author": "mattwondra <mattwondra@gmail.com> (http://mattwondra.com/)",
   "contributors": [
