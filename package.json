@@ -47,7 +47,7 @@
     "reactify": "^1.0.0",
     "watchify": "^2.3.0",
     "react": "^0.12.2",
-    "react-tools": "^0.12.2",
+    "react-tools": "^0.12.2"
   },
   "dependencies": {
     "amp-extend": "^1.0.1",
